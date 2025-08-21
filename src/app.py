@@ -65,7 +65,6 @@ activities = {
         "max_participants": 20,
         "participants": ["ethan@mergington.edu", "charlotte@mergington.edu"]
     },
-    # Intellectual activities
     "Mathletes": {
         "description": "Compete in math competitions and solve challenging problems",
         "schedule": "Wednesdays, 3:30 PM - 4:30 PM",
